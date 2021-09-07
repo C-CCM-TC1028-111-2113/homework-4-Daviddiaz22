@@ -1,6 +1,6 @@
 def main():
     #escribe tu código abajo de esta línea
-    b = int(input())
+    b = int(input('ingresa un numero'))
     a = 1
 
     for i in range(a,b+1,1):
